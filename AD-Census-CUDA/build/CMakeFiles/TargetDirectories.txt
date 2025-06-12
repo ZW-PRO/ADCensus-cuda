@@ -1,0 +1,3 @@
+/media/zhangwei/新加卷/MyCode/ADCensus_CUDA-main/build/CMakeFiles/ADCensusStereo.dir
+/media/zhangwei/新加卷/MyCode/ADCensus_CUDA-main/build/CMakeFiles/edit_cache.dir
+/media/zhangwei/新加卷/MyCode/ADCensus_CUDA-main/build/CMakeFiles/rebuild_cache.dir
